@@ -58,4 +58,3 @@ GEMINI_API_KEY=your_api_key_here
 
 ## License
 This project is open-source under the MIT License.
-```
