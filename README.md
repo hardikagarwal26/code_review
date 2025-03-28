@@ -1,4 +1,4 @@
-# CodeReviewer
+![Screenshot 2025-03-28 114235](https://github.com/user-attachments/assets/d13ace00-893d-4e7c-9042-acc5c42d1144)
 
 ## Overview
 CodeReviewer is a simple web application that takes poorly formatted or buggy code as input and returns a refined and corrected version. The application is built using:
@@ -60,4 +60,6 @@ GEMINI_API_KEY=your_api_key_here
 This project is open-source under the MIT License.
 ```
 
-Now, you can directly paste this into your `README.md` file without any formatting issues. Let me know if you need any modifications! 🚀
+
+
+![Screenshot 2025-03-28 114235](https://github.com/user-attachments/assets/0f5df361-b259-4c01-a15f-12c91e62d7be)
